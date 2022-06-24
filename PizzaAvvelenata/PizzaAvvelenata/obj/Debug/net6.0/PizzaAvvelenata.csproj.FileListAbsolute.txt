@@ -1,0 +1,12 @@
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\obj\Debug\net6.0\PizzaAvvelenata.csproj.AssemblyReference.cache
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\obj\Debug\net6.0\PizzaAvvelenata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\obj\Debug\net6.0\PizzaAvvelenata.AssemblyInfoInputs.cache
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\obj\Debug\net6.0\PizzaAvvelenata.AssemblyInfo.cs
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\obj\Debug\net6.0\PizzaAvvelenata.csproj.CoreCompileInputs.cache
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\bin\Debug\net6.0\PizzaAvvelenata.deps.json
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\bin\Debug\net6.0\PizzaAvvelenata.dll
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\bin\Debug\net6.0\PizzaAvvelenata.pdb
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\obj\Debug\net6.0\PizzaAvvelenata.dll
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\obj\Debug\net6.0\refint\PizzaAvvelenata.dll
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\obj\Debug\net6.0\PizzaAvvelenata.pdb
+C:\Users\alice\source\repos\PizzaAvvelenata\PizzaAvvelenata\obj\Debug\net6.0\ref\PizzaAvvelenata.dll
